@@ -1,0 +1,14 @@
+C:\Users\st310-05\Desktop\RogovTRPO5\bin\Debug\net8.0\RogovTRPO5.exe
+C:\Users\st310-05\Desktop\RogovTRPO5\bin\Debug\net8.0\RogovTRPO5.deps.json
+C:\Users\st310-05\Desktop\RogovTRPO5\bin\Debug\net8.0\RogovTRPO5.runtimeconfig.json
+C:\Users\st310-05\Desktop\RogovTRPO5\bin\Debug\net8.0\RogovTRPO5.dll
+C:\Users\st310-05\Desktop\RogovTRPO5\bin\Debug\net8.0\RogovTRPO5.pdb
+C:\Users\st310-05\Desktop\RogovTRPO5\obj\Debug\net8.0\RogovTRPO5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-05\Desktop\RogovTRPO5\obj\Debug\net8.0\RogovTRPO5.AssemblyInfoInputs.cache
+C:\Users\st310-05\Desktop\RogovTRPO5\obj\Debug\net8.0\RogovTRPO5.AssemblyInfo.cs
+C:\Users\st310-05\Desktop\RogovTRPO5\obj\Debug\net8.0\RogovTRPO5.csproj.CoreCompileInputs.cache
+C:\Users\st310-05\Desktop\RogovTRPO5\obj\Debug\net8.0\RogovTRPO5.dll
+C:\Users\st310-05\Desktop\RogovTRPO5\obj\Debug\net8.0\refint\RogovTRPO5.dll
+C:\Users\st310-05\Desktop\RogovTRPO5\obj\Debug\net8.0\RogovTRPO5.pdb
+C:\Users\st310-05\Desktop\RogovTRPO5\obj\Debug\net8.0\RogovTRPO5.genruntimeconfig.cache
+C:\Users\st310-05\Desktop\RogovTRPO5\obj\Debug\net8.0\ref\RogovTRPO5.dll
